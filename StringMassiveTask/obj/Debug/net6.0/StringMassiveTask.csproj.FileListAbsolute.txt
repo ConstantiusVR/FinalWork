@@ -1,0 +1,15 @@
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.csproj.AssemblyReference.cache
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.AssemblyInfoInputs.cache
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.AssemblyInfo.cs
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.csproj.CoreCompileInputs.cache
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/bin/Debug/net6.0/StringMassiveTask
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/bin/Debug/net6.0/StringMassiveTask.deps.json
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/bin/Debug/net6.0/StringMassiveTask.runtimeconfig.json
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/bin/Debug/net6.0/StringMassiveTask.dll
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/bin/Debug/net6.0/StringMassiveTask.pdb
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.dll
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/refint/StringMassiveTask.dll
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.pdb
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/StringMassiveTask.genruntimeconfig.cache
+/Users/konstantinratkin/Desktop/FinalWork/StringMassiveTask/obj/Debug/net6.0/ref/StringMassiveTask.dll
